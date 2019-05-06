@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ColecaoInformacoes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dados>
+    <Dado>
+      <anguloArmaZ>296.349457</anguloArmaZ>
+      <distanciaObstaculo>6.84909534</distanciaObstaculo>
+      <posicaoObstaculo>1.21251893</posicaoObstaculo>
+      <alturaObstaculo>1.5214088</alturaObstaculo>
+      <alturaAlvo>1.27215254</alturaAlvo>
+      <vento>-0.01041688</vento>
+    </Dado>
+    <Dado>
+      <anguloArmaZ>298.6383</anguloArmaZ>
+      <distanciaObstaculo>9.834931</distanciaObstaculo>
+      <posicaoObstaculo>-2.04479361</posicaoObstaculo>
+      <alturaObstaculo>1.11393261</alturaObstaculo>
+      <alturaAlvo>1.26114357</alturaAlvo>
+      <vento>-0.120374113</vento>
+    </Dado>
+    <Dado>
+      <anguloArmaZ>292.031952</anguloArmaZ>
+      <distanciaObstaculo>9.918715</distanciaObstaculo>
+      <posicaoObstaculo>-1.90718961</posicaoObstaculo>
+      <alturaObstaculo>1.09785461</alturaObstaculo>
+      <alturaAlvo>0.8483844</alturaAlvo>
+      <vento>0.00234334171</vento>
+    </Dado>
+    <Dado>
+      <anguloArmaZ>300.69928</anguloArmaZ>
+      <distanciaObstaculo>6.42320251</distanciaObstaculo>
+      <posicaoObstaculo>1.15466654</posicaoObstaculo>
+      <alturaObstaculo>1.51002979</alturaObstaculo>
+      <alturaAlvo>0.730020046</alturaAlvo>
+      <vento>-0.1481471</vento>
+    </Dado>
+  </Dados>
+</ColecaoInformacoes>
